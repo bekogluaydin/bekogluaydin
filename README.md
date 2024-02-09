@@ -1,6 +1,6 @@
 
 
-# 👋 Merhaba, ben Aydın BEKOĞLU! 
+# 👋 Hello, I'm Aydın BEKOĞLU! 
 
 <img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyscherzoTR&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
