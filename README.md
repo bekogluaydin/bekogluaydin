@@ -13,7 +13,7 @@
 
 
 [![](https://img.shields.io/twitter/follow/myscherzo?style=social)](https://twitter.com/Myscherzo)
-[![](https://img.shields.io/github/followers/myscherzotr?style=social)](https://www.github.com/cobanov)
+[![](https://img.shields.io/github/followers/bekogluaydin?style=social)](https://www.github.com/cobanov)
 
 
 
