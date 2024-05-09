@@ -2,14 +2,14 @@
 
 # 👋 Hello, I'm Aydın BEKOĞLU! 
 
-<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MyscherzoTR&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
+<img height="140em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bekogluaydin&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=myscherzotr&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=bekogluaydin&show_icons=true">
 
 <br /><br /><br /><br /><br /><br />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myscherzotr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bekogluaydin" /> </p>
 
 
 [![](https://img.shields.io/twitter/follow/myscherzo?style=social)](https://twitter.com/Myscherzo)
@@ -30,7 +30,7 @@
 
 
 <!--
-**MyscherzoTR/MyscherzoTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bekogluaydin/bekogluaydin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
